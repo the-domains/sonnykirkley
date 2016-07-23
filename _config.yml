@@ -1,0 +1,28 @@
+name: sonnykirkley
+favicon: null
+layout_spectrum: 0.4713776665739715
+typography_spectrum: 0.9997709095478058
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7278241130989045
+  lightness: 0.7564278696663678
+  saturation: 0.5240551785100251
+  rhythmicContrast: 0.7908764064777642
+purpose: []
