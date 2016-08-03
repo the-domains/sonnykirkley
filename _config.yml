@@ -1,19 +1,4 @@
-name: sonnykirkley
-favicon: null
-layout_spectrum: 0.9177
 typography_spectrum: 0.32186
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#c1eaff'
@@ -25,4 +10,23 @@ color:
   lightness: 0.7564278696663678
   saturation: 0.5240551785100251
   rhythmicContrast: 0.7908764064777642
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9177
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: sonnykirkley
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About
+    url: 'https://www.linkedin.com/in/sonnykirkley'
+    type: external
+favicon: null
 purpose: []
