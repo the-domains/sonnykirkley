@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[sonnykirkley]]></title>
         <description><![CDATA[sonnykirkley]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sonnykirkley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 02:00:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 18:22:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sonnykirkley/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Test</p>]]></description>
-            <link>undefinedtest/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af854300-47ea-412c-a31d-df724e47da90.jpg" alt="3D avatar seen through augmented reality display (2003). The black areas are transparent on the display.">]]></description>
+            <link>https://thegrid.ai/sonnykirkley/test/index.html</link>
             <guid isPermaLink="false">d6206241-dd2e-493d-a726-fc886056bab2</guid>
-            <pubDate>Sat, 23 Jul 2016 02:00:46 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2016 18:22:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
